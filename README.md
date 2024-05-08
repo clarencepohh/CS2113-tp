@@ -1,3 +1,10 @@
+## Note from the owner of this repository
+Hi! It's Clarence, one of the developers of the CLI-nton project, done for the module CS2113 in NUS. This is my personal clone of the working project submitted for the module, in order for better tracking of my GitHub stats (how shallow, I know).
+
+Aside from a few comments here and there that I might add, the repository is exactly the same as the final version we submitted. Feel free to take a look around this repo, or (if you'd like), take a look at our [actual team repository](https://github.com/AY2324S2-CS2113-W13-2/tp) that has all the information on our PRs, workflows, issues raised and code reviews. 
+
+Click [here](https://github.com/clarencepohh/tp) if you'd like to take a look at the actual fork that I used for my workflows during the project. Thanks for taking the time to read this!
+
 # Duke project template
 
 This is a project template for a greenfield Java project. It's named after the Java mascot _Duke_. Given below are instructions on how to use it.
