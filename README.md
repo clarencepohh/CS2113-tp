@@ -3,7 +3,15 @@ Hi! It's Clarence, one of the developers of the CLI-nton project, done for the m
 
 Aside from a few comments here and there that I might add, the repository is exactly the same as the final version we submitted. Feel free to take a look around this repo, or (if you'd like), take a look at our [actual team repository](https://github.com/AY2324S2-CS2113-W13-2/tp) that has all the information on our PRs, workflows, issues raised and code reviews. 
 
-Click [here](https://github.com/clarencepohh/tp) if you'd like to take a look at the actual fork that I used for my workflows during the project. Thanks for taking the time to read this!
+Click [here](https://github.com/clarencepohh/tp) if you'd like to take a look at the actual fork that I used for my workflows during the project. 
+
+The completion of this project would not be possible without my wonderful teammates:
+- Aakash Ramaswamy [See Aakash's GitHub Here!](https://github.com/Aak242)
+- Jonathan Kuek [See Jonathan's GitHub Here!](https://github.com/kyhjonathan)
+- Nicholas Tan [See Nicholas' GitHub Here!](https://github.com/NicholasTanYY)
+- Sivagnanam Maheshwaran [See Mahesh's GitHub Here!](https://github.com/Mahesh1772)
+
+Thanks for taking the time to read this!
 
 # Duke project template
 
@@ -14,8 +22,8 @@ This is a project template for a greenfield Java project. It's named after the J
 Prerequisites: JDK 11 (use the exact version), update Intellij to the most recent version.
 
 1. **Ensure Intellij JDK 11 is defined as an SDK**, as described [here](https://www.jetbrains.com/help/idea/sdk.html#set-up-jdk) -- this step is not needed if you have used JDK 11 in a previous Intellij project.
-1. **Import the project _as a Gradle project_**, as described [here](https://se-education.org/guides/tutorials/intellijImportGradleProject.html).
-1. **Verify the set up**: After the importing is complete, locate the `src/main/java/seedu/duke/Duke.java` file, right-click it, and choose `Run Duke.main()`. If the setup is correct, you should see something like the below:
+2. **Import the project _as a Gradle project_**, as described [here](https://se-education.org/guides/tutorials/intellijImportGradleProject.html).
+3. **Verify the set-up**: After the importing is complete, locate the `src/main/java/seedu/duke/Duke.java` file, right-click it, and choose `Run Duke.main()`. If the setup is correct, you should see something like the below:
    ```
    > Task :compileJava
    > Task :processResources NO-SOURCE
@@ -65,7 +73,7 @@ The project uses [GitHub actions](https://github.com/features/actions) for CI. W
 Steps for publishing documentation to the public: 
 1. If you are using this project template for an individual project, go your fork on GitHub.<br>
    If you are using this project template for a team project, go to the team fork on GitHub.
-1. Click on the `settings` tab.
-1. Scroll down to the `GitHub Pages` section.
-1. Set the `source` as `master branch /docs folder`.
-1. Optionally, use the `choose a theme` button to choose a theme for your documentation.
+2. Click on the `settings` tab.
+3. Scroll down to the `GitHub Pages` section.
+4. Set the `source` as `master branch /docs folder`.
+5. Optionally, use the `choose a theme` button to choose a theme for your documentation.
